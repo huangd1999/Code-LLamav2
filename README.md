@@ -1,2 +1,4 @@
 # Code-LLamav2
-This repo provide a finetune Llamav2 model for code intelligent. 
+This repo provides a finetune Llamav2 model for code intelligence. 
+
+The source code and pre-trained model will be upload soon.
